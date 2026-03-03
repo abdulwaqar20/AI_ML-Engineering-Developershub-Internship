@@ -129,10 +129,10 @@ the processed dataset.
 
 Model performance was evaluated using:
 
-  Metric                           Description
+  Metric                           Description<br>
   -------------------------------- ------------------------------------
-  MAE (Mean Absolute Error)        Average prediction error magnitude
-  RMSE (Root Mean Squared Error)   Penalizes larger prediction errors
+  MAE (Mean Absolute Error)        Average prediction error magnitude<br>
+  RMSE (Root Mean Squared Error)   Penalizes larger prediction errors<br>
 
 Using both metrics provides a clearer understanding of prediction
 accuracy.
@@ -141,25 +141,25 @@ accuracy.
 
 ## 🧠 Model Details
 
-  Property             Value
+  Property             Value<br>
   -------------------- -------------------
-  Algorithm            Linear Regression
-  Framework            Scikit-learn
-  Problem Type         Regression
-  Evaluation Metrics   MAE, RMSE
+  Algorithm            Linear Regression<br>
+  Framework            Scikit-learn<br>
+  Problem Type         Regression<br>
+  Evaluation Metrics   MAE, RMSE<br>
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tools & Technologies
 
-  Tool           Purpose
-  -------------- ---------------------------
-  Python         Core programming language
-  Pandas         Data manipulation
-  NumPy          Numerical computations
-  Matplotlib     Data visualization
-  Seaborn        Statistical visualization
-  Scikit-learn   Machine learning modeling
+  Tool           Purpose<br>
+  -------------- ---------------------------<br>
+  Python         Core programming language<br>
+  Pandas         Data manipulation<br>
+  NumPy          Numerical computations<br>
+  Matplotlib     Data visualization<br>
+  Seaborn        Statistical visualization<br>
+  Scikit-learn   Machine learning modeling<br>
 
 ------------------------------------------------------------------------
 
