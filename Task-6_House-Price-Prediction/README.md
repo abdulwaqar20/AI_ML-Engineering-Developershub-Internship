@@ -23,10 +23,11 @@ and evaluate performance using standard regression metrics.
 
 ## 📂 Project Structure
 
-    Task-6-House-Price-Prediction/
+    task-6-house-price-prediction/
     │
     ├── house_price_prediction.ipynb   # Full ML workflow notebook
     ├── dataset.csv                    # Dataset for training & testing
+    ├── requirements.txt               # Project dependencies
     └── README.md
 
 ------------------------------------------------------------------------
@@ -36,8 +37,8 @@ and evaluate performance using standard regression metrics.
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/task-6-house-price-prediction.git
-cd task-6-house-price-prediction
+git clone https://github.com/abdulwaqar20/AI_ML-Engineering-Developershub-Internship/Task-6_House-Price-Prediction.git
+cd Task-6_House-Price-Prediction
 ```
 
 ### 2️⃣ Install Dependencies
@@ -49,7 +50,7 @@ pip install -r requirements.txt
 ### 3️⃣ Launch the Notebook
 
 ``` bash
-jupyter notebook house_price_prediction.ipynb
+jupyter notebook House-Price-Prediction.ipynb
 ```
 
 ------------------------------------------------------------------------
